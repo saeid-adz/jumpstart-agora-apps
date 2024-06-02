@@ -23,4 +23,5 @@ spec:
     image_tag: v1.3
     github_User: saeid-adz
     queue_monitoring_frontend:
-      live_view_enabled: "false"
+      live_view_enabled: "true"
+
